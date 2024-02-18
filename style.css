@@ -3,3 +3,11 @@
 *{
     font-family: "Raleway", sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
+#seat-name-price>div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
